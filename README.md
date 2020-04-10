@@ -1,25 +1,20 @@
-# Initial page
+# What is Git Insights
 
-## Getting Super Powers
+**Git Insights** is an analytics tool to give you insights on your software projects and teams.
 
-Becoming a super hero is a fairly straight forward process:
+We want to help **software** **teams to work more efficiently**🤝by creating a simple but yet powerful service for them to **keep a pulse on their productivity**.
 
-```
-$ give me super-powers
-```
+Our mission is to make software development a **data-driven, unbiased,** and **progressive** process for all software teams regardless of their size or geography.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+## Features
 
-Once you're strong enough, save the world:
+📊 You can find all of the essential metrics on four pages:
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+{% page-ref page="metrics/dashboard/" %}
 
+{% page-ref page="metrics/code/" %}
 
+{% page-ref page="metrics/issues/" %}
+
+{% page-ref page="metrics/reviews/" %}
 
